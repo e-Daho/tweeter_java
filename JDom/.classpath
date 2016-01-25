@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/xalan/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/xalan/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

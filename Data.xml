@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repertoire>
+  <utilisateur>
+    <pseudo>Daho</pseudo>
+    <password>raid</password>
+    <liste_messages>
+      <message>
+        <id>1</id>
+        <texte>Salut les gars</texte>
+        <date>24/04/2015 à 09:16:24</date>
+        <nbr_like>0</nbr_like>
+        <commentaire>false</commentaire>
+      </message>
+      <message>
+        <id>2</id>
+        <texte>dites moi si tout marche</texte>
+        <date>24/04/2015 à 09:16:29</date>
+        <nbr_like>1</nbr_like>
+        <commentaire>false</commentaire>
+      </message>
+      <message>
+        <id>3</id>
+        <texte>j'espère vraiment que c'est le cas !</texte>
+        <date>24/04/2015 à 09:16:36</date>
+        <nbr_like>1</nbr_like>
+        <commentaire>false</commentaire>
+      </message>
+    </liste_messages>
+    <liste_suivie>
+      <pseudo>Shéshé</pseudo>
+      <pseudo>Simone</pseudo>
+    </liste_suivie>
+    <liste_aime>
+      <id>3</id>
+      <id>2</id>
+    </liste_aime>
+  </utilisateur>
+  <utilisateur>
+    <pseudo>Shéshé</pseudo>
+    <password>art</password>
+    <liste_messages />
+    <liste_suivie>
+      <pseudo>Daho</pseudo>
+    </liste_suivie>
+    <liste_aime />
+  </utilisateur>
+  <utilisateur>
+    <pseudo>Simone</pseudo>
+    <password>italie</password>
+    <liste_messages />
+    <liste_suivie />
+    <liste_aime />
+  </utilisateur>
+  <utilisateur>
+    <pseudo>Thib</pseudo>
+    <password>test</password>
+    <liste_messages>
+      <message>
+        <id>4</id>
+        <texte>Salut c'est cool</texte>
+        <date>03/12/2015 à 14:36:10</date>
+        <nbr_like>0</nbr_like>
+      </message>
+    </liste_messages>
+    <liste_suivie>
+      <pseudo />
+      <pseudo>Shéshé</pseudo>
+      <pseudo />
+      <pseudo>Nala</pseudo>
+    </liste_suivie>
+    <liste_aime>
+      <id />
+      <id />
+      <id />
+    </liste_aime>
+  </utilisateur>
+  <utilisateur>
+    <pseudo>Nala</pseudo>
+    <password>test</password>
+    <liste_messages>
+      <message>
+        <id>5</id>
+        <texte>yooo !</texte>
+        <date>03/12/2015 à 14:36:52</date>
+        <nbr_like>0</nbr_like>
+      </message>
+    </liste_messages>
+    <liste_suivie>
+      <pseudo>Thib</pseudo>
+    </liste_suivie>
+    <liste_aime />
+  </utilisateur>
+  <utilisateur>
+    <pseudo>sheshe</pseudo>
+    <password>sheshe</password>
+    <liste_messages />
+    <liste_suivie />
+    <liste_aime />
+  </utilisateur>
+</repertoire>
