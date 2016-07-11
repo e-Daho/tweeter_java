@@ -9,3 +9,5 @@ Electif Application Concurrente Mobile 2015
 @ Thomas Perrot
 
 Architecture MVC, stockage des données sur fichier XML.
+
+Pour plus d'informations ou d'images, se référer au rapport (pdf).
